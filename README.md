@@ -40,7 +40,7 @@ chafu文件夹扔进plugin文件夹里
 }
 
 安装：pip install a2s flask
-pip uninstall python-a2s
+pip uninstall a2s
 pip install python-a2s
 
 
