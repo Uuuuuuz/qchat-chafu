@@ -1,1 +1,4 @@
+这是让qchatgpt机器人可以进行起源查服的插件：
+使用方法
 py文件扔进项目文件夹，napcatqq改下配置
+chafu文件夹扔进plugin文件夹里
